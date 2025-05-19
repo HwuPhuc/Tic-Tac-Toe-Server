@@ -1,4 +1,4 @@
-# LameCaro_Server
+# Tic-Tac-Toe Server
 A tic-tac-toe game created by using Java for learning purpose.
 
 The aim is to understand how to make an online game where players can connect to each other through Internet and play together.
